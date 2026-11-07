@@ -1,0 +1,55 @@
+VEDA TECHNOLOGY
+AI & ML INTERNSHIP
+
+TASK 29: RELATIONSHIP ANALYSIS
+
+1. INTRODUCTION
+
+Relationship Analysis is an important part of data analysis. It helps identify how two numerical variables are related. A scatter plot is used to represent the relationship between two variables visually.
+
+2. OBJECTIVE
+
+To create a scatter plot using Python and analyse the relationship between two numerical variables.
+
+3. TOOLS AND TECHNOLOGIES
+
+• Python
+• Pandas
+• Matplotlib
+• Jupyter Notebook
+
+4. DATASET DESCRIPTION
+
+The Iris dataset was used for this task. A sample containing 10 observations was selected.
+
+The following numerical columns were considered:
+
+• Sepal Length
+• Petal Length
+
+5. IMPLEMENTATION
+
+The dataset was loaded using the Pandas library. Two numerical columns were selected for analysis.
+
+A scatter plot was created using Matplotlib's scatter() function. The correlation value was also calculated to understand the relationship between the selected variables.
+
+6. OBSERVATIONS
+
+1. The scatter plot visually represents the relationship between sepal length and petal length.
+2. The selected variables generally increase together.
+3. A positive relationship is observed between the two variables.
+
+7. RESULT
+
+A scatter plot was successfully created to visualize the relationship between sepal length and petal length.
+
+The graph was saved as scatter_plot.png.
+
+8. CONCLUSION
+
+This task provided practical experience in visualizing relationships between numerical variables using Python. It helped develop an understanding of scatter plots, correlation, and data interpretation.
+
+SUBMITTED BY:
+Ramya J
+
+Veda Technology – AI & ML Internship
